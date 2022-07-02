@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="[https://wifflegif.com/gifs/372675-programming-processing-gif">
+<img align="right" alt="Coding" width="400" src="[https://wifflegif.com/gifs/372675-programming-processing-gif]">
 <p align="left">
 <a href="https://linkedin.com/in/hassan-a-25b46b222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-a-25b46b222" height="30" width="40" /></a>
 </p>

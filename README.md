@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h2 align="center">I am a full stack developer at school of code. having worked as cyber security analyst for the past couple years.</h1>
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400"(https://wifflegif.com/gifs/372675-programming-processing-gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
 <p align="left">
 <a href="https://linkedin.com/in/hassan-a-25b46b222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-a-25b46b222" height="30" width="40" /></a>
 </p>

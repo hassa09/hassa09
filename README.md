@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h2 align="center">I am a full stack developer at school of code. having worked as cyber security analyst for the past couple years.</h1>
+<h2 align="center">I am a full stack developer at school of code. having worked as cyber security analyst for the past couple years, i have decided to explore fullstack developer bath.</h1>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

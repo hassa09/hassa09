@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h2 align="center">I am a full stack developer at school of code. having worked as cyber security analyst in the past couple years, i have decided to explore fullstack developer bath.</h1>
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
